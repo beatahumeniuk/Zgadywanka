@@ -3,11 +3,19 @@
 Popularna gra - zgadywanka, polegająca na gadywaniu haseł.
 
 Gra posiada dwa widoki:
+      
 1. Wybieranie kategorii:
+
+![picture](https://github.com/beatahumeniuk/Zgadywanka/blob/master/app/src/main/assets/Wybierz%20kategorie.jpg)
+
 Wybór jednej z pięciu kategorii - zawiera 
  - nagłówek,
  - 5 buttonów, każdy z nazwą kategorii
+ 
 2. Gra:
+
+![picture](https://github.com/beatahumeniuk/Zgadywanka/blob/master/app/src/main/assets/Zgadniej%20has%C5%82o.jpg)
+
 Przebieg gry - zawiera 
  - wynik, 
  - nazwę wybranej kategorii,
