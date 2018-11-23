@@ -1,7 +1,15 @@
 #Internal package file, do not edit.
-#Fri Nov 23 17:35:42 CET 2018
+#Fri Nov 23 18:03:56 CET 2018
+1.base=C\:\\Users\\beata\\Documents\\Zgadywanka\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.path=Wybierz kategorie.jpg
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\beata\\Documents\\Zgadywanka\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.base=C\:\\Users\\beata\\Documents\\Zgadywanka\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
 0.path=words.json
 0.set=ASSET
-count=1
+0.base=C\:\\Users\\beata\\Documents\\Zgadywanka\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.baseType=DIRECTORY
+1.path=Zgadniej has³o.jpg
