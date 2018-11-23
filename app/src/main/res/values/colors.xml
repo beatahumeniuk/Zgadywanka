@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#97928b</color>
+    <color name="colorPrimaryDark">#eaaca1</color>
+    <color name="colorAccent">#060203</color>
+    <color name="kategoriaImiona">#97928b</color>
+    <color name="kategoriaJedzenie">#eaaca1</color>
+    <color name="katogoriaMiasta">#97928b</color>
+    <color name="kategoriaPanstwa">#eaaca1</color>
+    <color name="kategoriaZwierzeta">#97928b</color>
+</resources>

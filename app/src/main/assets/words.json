@@ -1,0 +1,696 @@
+{
+  "imiona": [
+    {
+      "content": "MAREK",
+      "hint": "np. Grechuta"
+    },
+    {
+      "content": "BEATA",
+      "hint": "np. Kozidrak"
+    },
+    {
+      "content": "MARIA",
+      "hint": "np. Skłodowska-Curie"
+    },
+    {
+      "content": "ADAM",
+      "hint": "Pierwszy mężczyzna"
+    },
+    {
+      "content": "EWA",
+      "hint": "Pierwsza kobieta"
+    },
+    {
+      "content": "AGATA",
+      "hint": "np. Kulesza"
+    },
+    {
+      "content": "ANNA",
+      "hint": "np. Maria Jopek"
+    },
+    {
+      "content": "NATALIA",
+      "hint": "np. Kozidrak"
+    },
+    {
+      "content": "MARTA",
+      "hint": "np. Żmuda Trzebiatowska"
+    },
+    {
+      "content": "JERZY",
+      "hint": "zabił smoka"
+    },
+    {
+      "content": "JANUSZ",
+      "hint": "np. Gajos"
+    },
+    {
+      "content": "WERONIKA",
+      "hint": "np. Rosati"
+    },
+    {
+      "content": "JAN",
+      "hint": "... Paweł II"
+    },
+    {
+      "content": "BARTŁOMIEJ",
+      "hint": "np. Topa"
+    },
+    {
+      "content": "BARTOSZ",
+      "hint": "np. Kurek (siatkarz)"
+    },
+    {
+      "content": "BENEDYKT",
+      "hint": "... XVI (imię poprzedniego papieża)"
+    },
+    {
+      "content": "KACPER",
+      "hint": "np. Kuszewski"
+    },
+    {
+      "content": "KATARZYNA",
+      "hint": "np. Skrzynecka"
+    },
+    {
+      "content": "BARABARA",
+      "hint": "np. Kurdej Satan"
+    },
+    {
+      "content": "KAROLINA",
+      "hint": "np. Szostak"
+    },
+    {
+      "content": "MIROSŁAW",
+      "hint": "np. Baka"
+    },
+    {
+      "content": "STANISŁAW",
+      "hint": "np. August Poniatowski"
+    },
+    {
+      "content": "JACEK",
+      "hint": "np. Kaczmarski"
+    },
+    {
+      "content": "ARTUR",
+      "hint": "legendarny celtycki władca Brytów z przełomu V i VI wieku"
+    },
+    {
+      "content": "MARCIN",
+      "hint": "np. Gortat"
+    },
+    {
+      "content": "ANDRZEJ",
+      "hint": "np. Duda"
+    },
+    {
+      "content": "LECH",
+      "hint": "np. Kaczyński"
+    },
+    {
+      "content": "RADOSŁAW",
+      "hint": "np. Majdan"
+    },
+    {
+      "content": "ANTONI",
+      "hint": "np. Macierewicz"
+    },
+    {
+      "content": "AGNIESZKA",
+      "hint": "np. Chylińska"
+    },
+    {
+      "content": "KAMIL",
+      "hint": "np. Stoch"
+    },
+    {
+      "content": "ALEKSANDRA",
+      "hint": "np. Domańska"
+    },
+    {
+      "content": "ALEKSANDER",
+      "hint": "Wielki"
+    },
+    {
+      "content": "ZBIGNIEW",
+      "hint": "np. Wodecki"
+    },
+    {
+      "content": "ELŻBIETA",
+      "hint": "Królowa Wielkiej Brytanii"
+    },
+    {
+      "content": "KRYSTYNA",
+      "hint": "np. Czubówna"
+    },
+    {
+      "content": "MAŁGORZATA",
+      "hint": "np. Kożuchowska"
+    },
+    {
+      "content": "JOLANTA",
+      "hint": "np. Rutowicz"
+    },
+    {
+      "content": "MATEUSZ",
+      "hint": "Ojciec... (tytuł serialu)"
+    },
+    {
+      "content": "ROBERT",
+      "hint": "np. Kubica"
+    },
+    {
+      "content": "RAFAŁ",
+      "hint": "np. Trzaskowski"
+    },
+    {
+      "content": "TOMASZ",
+      "hint": "np. Karolak"
+    },
+    {
+      "content": "JAROSŁAW",
+      "hint": "np. Kaczyński"
+    },
+    {
+      "content": "WOJCIECH",
+      "hint": "np. Cejrowski"
+    }
+  ],
+  "jedzenie": [
+    {
+      "content": "MAKARON",
+      "hint": "podstawa kuchni włoskiej"
+    },
+    {
+      "content": "CHLEB",
+      "hint": "podstawa kanapki"
+    },
+    {
+      "content": "BUŁKA",
+      "hint": "słodka, pszenna, żytnia lub grahamka"
+    },
+    {
+      "content": "JABŁECZNIK",
+      "hint": "inaczej szarlotka"
+    },
+    {
+      "content": "DROŻDŻÓWKA",
+      "hint": "słodka bułka"
+    },
+    {
+      "content": "ZUPA POMIDOROWA",
+      "hint": "powstała z wczorajszego rosołu"
+    },
+    {
+      "content": "OGÓREK",
+      "hint": "zielone warzywo do mizerii"
+    },
+    {
+      "content": "POMIDOR",
+      "hint": "składnik keczupu"
+    },
+    {
+      "content": "KOTLET SCHABOWY",
+      "hint": "podstawowe danie polskiej kuchni, podawany z ziemniakami i surówką"
+    },
+    {
+      "content": "BIGOS",
+      "hint": "podstawowe danie polskiej kuchni robione  kapusty i mięsa"
+    },
+    {
+      "content": "FRYTKI",
+      "hint": "smażone ziemniaki"
+    },
+    {
+      "content": "HOT DOG",
+      "hint": "bułka z parówką"
+    },
+    {
+      "content": "HAMBURGER",
+      "hint": "byłka z kotletem mielonym i dodatkami"
+    },
+    {
+      "content": "KREWETKI",
+      "hint": "różowe owoce morza"
+    },
+    {
+      "content": "ROSÓŁ",
+      "hint": "niedzielna zupa"
+    },
+    {
+      "content": "KRUPNIK",
+      "hint": " zupa na wywarze jarzynowym lub mięsnym, z ziemniakami, bądź zasypana kaszą jęczmienną lub ryżem"
+    },
+    {
+      "content": "GULASZ",
+      "hint": "węgierskie danie narodowe, skłądające się z miesa, cebuli i papryki"
+    },
+    {
+      "content": "JABŁKO",
+      "hint": "owoc na szarlotke"
+    },
+    {
+      "content": "FASOLA",
+      "hint": "podstawa potrawy po bretońsku"
+    },
+    {
+      "content": "CUKINIA",
+      "hint": "kabaczek"
+    },
+    {
+      "content": "RYŻ",
+      "hint": "podstawa sushi"
+    },
+    {
+      "content": "KASZA",
+      "hint": "manna, jaglana, gryczana..."
+    },
+    {
+      "content": "CEBULA",
+      "hint": "polskie warzywo narodowe"
+    },
+    {
+      "content": "JAJECZNICA",
+      "hint": "smażone jajka"
+    },
+    {
+      "content": "STEK",
+      "hint": "kotlet wołowy"
+    },
+    {
+      "content": "SAŁATKA",
+      "hint": "danie z warzyw i/lub owoców"
+    },
+    {
+      "content": "NALEŚNIKI",
+      "hint": "placki zrolowane z nadzieniem"
+    },
+    {
+      "content": "SZPINAK",
+      "hint": "przysmak marynarza Popeye'a"
+    },
+    {
+      "content": "SER",
+      "hint": "np. szwajcarski"
+    },
+    {
+      "content": "PIZZA",
+      "hint": "włoskie ciasto"
+    }
+  ],
+  "miasta": [
+    {
+      "content": "WARSZAWA",
+      "hint": "stolica Polski"
+    },
+    {
+      "content": "WROCŁAW",
+      "hint": "stolica Dolnego Śląska"
+    },
+    {
+      "content": "ŁÓDŹ",
+      "hint": "stolica województwa Łódzkiego"
+    },
+    {
+      "content": "GDAŃSK",
+      "hint": "razem z Gdynią i Sopotem"
+    },
+    {
+      "content": "GDYNIA",
+      "hint": "razem z Gdańskiem i Sopotem"
+    },
+    {
+      "content": "SOPOT",
+      "hint": "razem z Gdańskiem i Gdynią"
+    },
+    {
+      "content": "BIAŁYSTOK",
+      "hint": "Stolica Podlasia"
+    },
+    {
+      "content": "ZAKOPANE",
+      "hint": "największa miejscowość w Tatrach"
+    },
+    {
+      "content": "ZAMOŚĆ",
+      "hint": "duże miasto w województwie lubelskim"
+    },
+    {
+      "content": "ŚWINOUJŚCIE",
+      "hint": "uzdrowisko w województwie zachodniopomorskim z portem morskim i kąpieliskiem"
+    },
+    {
+      "content": "TORUŃ",
+      "hint": "miasto Kopernika"
+    },
+    {
+      "content": "BYDGOSZCZ",
+      "hint": "największe miasto województwa kujawsko-pomorskiego"
+    },
+    {
+      "content": "KRAKÓW",
+      "hint": "miasto z Wawelem"
+    },
+    {
+      "content": "KIELCE",
+      "hint": "stolica województwa świętokrzyskiego"
+    },
+    {
+      "content": "POZNAŃ",
+      "hint": "miasto koziołków"
+    },
+    {
+      "content": "KATOWICE",
+      "hint": "stolica Śląska"
+    },
+    {
+      "content": "BERLIN",
+      "hint": "stolica Niemiec"
+    },
+    {
+      "content": "PARYŻ",
+      "hint": "miasto z wieżą Eiffla"
+    },
+    {
+      "content": "LONDYN",
+      "hint": "stolica Angli"
+    },
+    {
+      "content": "DUBLIN",
+      "hint": "stolica Irlandii"
+    },
+    {
+      "content": "PRAGA",
+      "hint": "stolica Czech"
+    },
+    {
+      "content": "MOSKWA",
+      "hint": "stolica Rosji"
+    },
+    {
+      "content": "Madryt",
+      "hint": "stolica Hiszpanii"
+    },
+    {
+      "content": "LIZBONA",
+      "hint": "stolica Portugalii "
+    },
+    {
+      "content": "RZYM",
+      "hint": "stolica Włoch"
+    },
+    {
+      "content": "BRUKSELA",
+      "hint": "stolica Belgii"
+    },
+    {
+      "content": "AMSTERDAM",
+      "hint": "stolica Holandii"
+    },
+    {
+      "content": "WIEDEŃ",
+      "hint": "stolica Austrii"
+    },
+    {
+      "content": "BUDAPESZT",
+      "hint": "stolica Węgier"
+    },
+    {
+      "content": "MIŃSK",
+      "hint": "stolica Białorusi"
+    },
+    {
+      "content": "KIJÓW",
+      "hint": "stolica Ukrainy"
+    },
+    {
+      "content": "OSLO",
+      "hint": "stolica Norwegii"
+    },
+    {
+      "content": "SZTOKHOLM",
+      "hint": "stolica Szwecji"
+    }
+  ],
+  "państwa": [
+    {
+      "content": "POLSKA",
+      "hint": "ze stolicą w Warszawie"
+    },
+    {
+      "content": "NIEMCY",
+      "hint": "nasz bliski zachodni sąsiad"
+    },
+    {
+      "content": "CZECHY",
+      "hint": "kraj pepików"
+    },
+    {
+      "content": "CHILE",
+      "hint": "graniczy z Peru, Boliwią i Argentyną"
+    },
+    {
+      "content": "BRAZYLIA",
+      "hint": "zajmuje prawie połowę powierzchni Ameryki Południowej"
+    },
+    {
+      "content": "ARGENTYNA",
+      "hint": "graniczy z Chile na zachodzie, Boliwią i Paragwajem na północy, Brazylią i Urugwajem na północnym wschodzie"
+    },
+    {
+      "content": "HOLANDIA",
+      "hint": "państwo wiatraków i tulipanów"
+    },
+    {
+      "content": "SERBIA",
+      "hint": "graniczy z Węgrami na północy, Rumunią i Bułgariąna wschodzie, Macedonią i Albaniąna południu oraz z Czarnogórą, Chorwacją i Bośnią i Hercegowiną na zachodzie"
+    },
+    {
+      "content": "CHORWACJA",
+      "hint": "graniczy od południa z Bośnią i Hercegowiną oraz Czarnogórą, od wschodu z Serbią oraz Węgrami i Słowenią od północy"
+    },
+    {
+      "content": "IRLANDIA",
+      "hint": "zielona wyspa"
+    },
+    {
+      "content": "GRECJA",
+      "hint": "kraj oliwek"
+    },
+    {
+      "content": "ANGLIA",
+      "hint": "siedziba Elżbiety II"
+    },
+    {
+      "content": "SZWECJA",
+      "hint": "państwo skandynawskie obok Norwegii, Finlandii i Danii"
+    },
+    {
+      "content": "SŁOWACJA",
+      "hint": "wchodziła w skład Czechosłowacji"
+    },
+    {
+      "content": "CHINY",
+      "hint": "najludniejsze państwo świata"
+    },
+    {
+      "content": "JAPONIA",
+      "hint": "kraj kwitnącej wiśni"
+    },
+    {
+      "content": "ROSJA",
+      "hint": "największe państwo na świecie"
+    },
+    {
+      "content": "STANY ZJEDNOCZONE",
+      "hint": "USA"
+    },
+    {
+      "content": "AFGANISTAN",
+      "hint": "państwo ze stolicą w Kabulu"
+    },
+    {
+      "content": "INDIE",
+      "hint": "najludniejszą demokracją świata"
+    },
+    {
+      "content": "ISLANDIA",
+      "hint": "stolica: Reykjavík"
+    },
+    {
+      "content": "UKRAINA",
+      "hint": "nasi południowo-wschodni sąsiedzi"
+    },
+    {
+      "content": "SZWECJA",
+      "hint": "państwo skandynawskie obok Norwegii, Finlandii i Danii"
+    },
+    {
+      "content": "NORWEGIA",
+      "hint": "państwo skandynawskie obok Szwecji, Finlandii i Danii"
+    },
+    {
+      "content": "FINLANDIA",
+      "hint": "państwo skandynawskie obok Norwegii, Szwecji i Danii"
+    },
+    {
+      "content": "MAROKO",
+      "hint": "państwo położone w północno-zachodniej Afryce nad Oceanem Atlantyckim i Morzem Śródziemnym"
+    },
+    {
+      "content": "EGIPT",
+      "hint": "Czarny Ląd"
+    },
+    {
+      "content": "SYRIA",
+      "hint": "graniczy z Turcją, Irakiem, Jordanią, Libanem i Izraelem"
+    }
+  ],
+  "zwierzęta": [
+    {
+      "content": "ŻYRAFA",
+      "hint": "ma długą szyję"
+    },
+    {
+      "content": "KOŃ",
+      "hint": "zwierzę pociągowe wyparte przez maszyny"
+    },
+    {
+      "content": "KOT",
+      "hint": "chodzi swoimi ścieżkami"
+    },
+    {
+      "content": "PIES",
+      "hint": "najlepszy przyjaciel człowieka"
+    },
+    {
+      "content": "BYK",
+      "hint": "utarło się, że czerwień wywołuje u niego agresję"
+    },
+    {
+      "content": "RAK",
+      "hint": "nieborak"
+    },
+    {
+      "content": "SŁOŃ",
+      "hint": "ma długą trąbę"
+    },
+    {
+      "content": "CHOMIK",
+      "hint": "magazynuje jedzenie w polikach"
+    },
+    {
+      "content": "KROWA",
+      "hint": "daje mleko"
+    },
+    {
+      "content": "KOZA",
+      "hint": "jej samiec to cap"
+    },
+    {
+      "content": "DZIK",
+      "hint": "jego samica to locha"
+    },
+    {
+      "content": "ŻUBR",
+      "hint": "występuje w puszczy"
+    },
+    {
+      "content": "LEW",
+      "hint": "król zwierząt"
+    },
+    {
+      "content": "JASZCZURKA",
+      "hint": "mały krokodyl"
+    },
+    {
+      "content": "WIEWIÓRKA",
+      "hint": "ruda kitka"
+    },
+    {
+      "content": "KURA",
+      "hint": "znowi jaja"
+    },
+    {
+      "content": "KACZKA",
+      "hint": "pływający ptak hodowlany"
+    },
+    {
+      "content": "BOCIAN",
+      "hint": "przynosi dzieci"
+    },
+    {
+      "content": "WIELORYB",
+      "hint": "duża ryba"
+    },
+    {
+      "content": "REKIN",
+      "hint": "drapieżna ryba"
+    },
+    {
+      "content": "GEPARD",
+      "hint": "najszybsze zwierzę na świecie"
+    },
+    {
+      "content": "WĄŻ",
+      "hint": "np. pyton"
+    },
+    {
+      "content": "PAJĄK",
+      "hint": "np. ptasznik"
+    },
+    {
+      "content": "MUCHA",
+      "hint": "natrętny owad"
+    },
+    {
+      "content": "MYSZ",
+      "hint": "miłośniczka sera"
+    },
+    {
+      "content": "BARAN",
+      "hint": "hodowany na wełnę"
+    },
+    {
+      "content": "SZCZUR",
+      "hint": "większy kolega myszy"
+    },
+    {
+      "content": "KROKODYL",
+      "hint": "duży drapieżny gad"
+    },
+    {
+      "content": "STRUŚ",
+      "hint": "duży ptak"
+    },
+    {
+      "content": "KANGUR",
+      "hint": "zwierzę z kieszenią"
+    },
+    {
+      "content": "ŚWINKA MORSKA",
+      "hint": "większa koleżanka chomika"
+    },
+    {
+      "content": "PAPUGA",
+      "hint": "kolorowy gadający ptak"
+    },
+    {
+      "content": "PAW",
+      "hint": "dumny kolorowy ptak"
+    },
+    {
+      "content": "MRÓWKA",
+      "hint": "pracowity owad bez skrzydeł"
+    },
+    {
+      "content": "ŻUK",
+      "hint": "również nazwa polskich samochodów dostawczych"
+    },
+    {
+      "content": "ŚWINIA",
+      "hint": "udomowiony dzik"
+    }
+  ]
+}
